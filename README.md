@@ -2,7 +2,7 @@
 Edith Amofah
 
 ## About Me
-[1 sentence: e.g., "IT professional with hands-on lab experience in Windows administration, troubleshooting, and security monitoring."]
+IT professional with hands-on lab experience in Windows administration, troubleshooting, and security monitoring.
 
 ## Weekly Artifacts
 ### Week 1: Ticket Resolution Library
